@@ -1,6 +1,3 @@
-<img src="https://img.shields.io/github/stars/C3n7ral051nt4g3ncy/OSINT_Inception-links?label=Repo%20stars&style=social"> <img src="https://img.shields.io/github/last-commit/C3n7ral051nt4g3ncy/OSINT_Inception-links?style=social">
-
-
 ## OSINT Inception | Links 🔎
 ### Current (working) links for Start.me pages that are listed on the [OSINT Inception Project](https://start.me/p/Pwy0X4/osint-inception)
 
@@ -8,17 +5,7 @@
 
 <img width="633" src="https://user-images.githubusercontent.com/104733166/189539896-b40d5dc8-9926-495c-a22a-48927a0176f6.jpg">
 
-<br>
 
-## Community Help ⛑️
-**Feel free to submit an Issue or PR (Pull Request) for any broken links**. (Even though I regularly check for broken links and I maintain this project).
-
-<br>
-
-## Mentions 🗣️
-Thank you to @WebBreacher for using and mentionning OSINT Inception foor his project ==> https://smart.myosint.training/ 
-
-<br>
 
 ## OSINT Inception Google CSE (Custom Search Engine) 🇬:
 The Google Custom Search Engine specifically crawls 🕷️ the start.me pages listed on project OSINT Inception. <br>
